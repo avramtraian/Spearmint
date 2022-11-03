@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+Spearmint.sln
+Spearmint.vcxproj
+Spearmint.vcxproj.filters
+Spearmint.vcxproj.user
+
+# Binaries
+Binaries/
+Intermediate/
